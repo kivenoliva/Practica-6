@@ -1,0 +1,3 @@
+2. El precio sería un atributo de "Medicamento".
+
+3. Nose muy bien, me he hecho un poco lio en esta.

@@ -1,0 +1,1 @@
+2. Sí, no se puede expresar que un álbum tenga extrictamente varias canciones (en el diagrama está expresado que tiene que tener una o más canciones).
